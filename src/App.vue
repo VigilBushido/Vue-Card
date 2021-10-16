@@ -8,7 +8,7 @@
         <h2>Sending all my love from Vacation!</h2>
       </template>
       <template #description>
-        <p>Please send someone to resuce me.</p>
+        <p>Please send someone to rescue me.</p>
         <p>Lost at Sea in Paradise!</p>
       </template>
     </Card>
